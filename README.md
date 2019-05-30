@@ -60,7 +60,7 @@ npm install
 ```
 Then run API with:
 ```
-npm run dev
+node server.js
 ```
 
 If your db is local you'll have to run it:
