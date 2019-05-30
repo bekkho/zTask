@@ -67,6 +67,11 @@ If your db is local you'll have to run it:
 ```
 mongod
 ```
+Example:
+
+```
+{"_id":"5cef96df31cb00282cc20f97","title":"Brand 01","description":"Cool Brand 1","price":"$42.05","stock":"45","location":"Vilnius, Lithuania"}
+```
 
 
 <h2>Author</h2>
