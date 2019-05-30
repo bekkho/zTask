@@ -3,8 +3,8 @@
 
 <h2>Resources</h2>
 
-- Node.Js
-- Express.Js
+- NodeJs
+- ExpressJs
 - MongoDb
 - Postman
 - BodyParser
